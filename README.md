@@ -23,9 +23,9 @@ Mental health is a crucial aspect of overall well-being, yet many individuals la
 - **Community Forum**: A safe space for users to share experiences and support each other.
 
 ## Technology Stack
-- **Frontend**: React.js (or any other framework you choose)
-- **Backend**: Node.js with Express (or any other backend technology)
-- **Database**: MongoDB (or any other database you prefer)
+- **Frontend**: html, css , javaScript
+- **Backend**: flask
+- **Database**: SQLAlchemy
 - **AI Framework**: TensorFlow, PyTorch, or any relevant AI framework
 
 ## Installation
