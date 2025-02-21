@@ -1,4 +1,4 @@
-# AI-Powered Mental Health Support Project
+h,# AI-Powered Mental Health Support Project
 
 Welcome to the **AI-Powered Mental Health Support Project**! This project aims to leverage artificial intelligence to provide users with accessible mental health resources and support.
 
@@ -64,12 +64,30 @@ We welcome contributions from the community! To contribute to this project, plea
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries or feedback, please reach out:
+For any inquiries or feedback, please reach out to us:
 
 - **Name**: Amira Sayed Mohamed
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [Email@example.com](mailto:amira.sayedza@example.com)
 - **GitHub**: [AmiraSayedMohamed](https://github.com/AmiraSayedMohamed)
-
 ---
+- **Name**: name member2
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **GitHub**: [yourUserNameinGithub](https://github.com/AmiraSayedMohamed)
+---
+- **Name**: name member3
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **GitHub**: [yourUserNameinGithub](https://github.com/AmiraSayedMohamed)
+---
+- **Name**: name member4
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **GitHub**: [yourUserNameinGithub](https://github.com/AmiraSayedMohamed)
+---
+- **Name**: name member 5
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **GitHub**: [yourUserNameinGithub](https://github.com/AmiraSayedMohamed)
+---
+- **Name**: name member 6
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **GitHub**: [yourUserNameinGithub](https://github.com/AmiraSayedMohamed)
 
 Thank you for your interest in the AI-Powered Mental Health Support Project! Together, we can make a difference in mental health support.
