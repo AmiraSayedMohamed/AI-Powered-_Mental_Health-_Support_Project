@@ -25,7 +25,7 @@ Mental health is a crucial aspect of overall well-being, yet many individuals la
 ## Technology Stack
 - **Frontend**: html, css , javaScript
 - **Backend**: flask
-- **Database**: SQLAlchemy
+- **Database**: ChromaDB
 - **AI Framework**: TensorFlow, PyTorch, or any relevant AI framework
 
 ## Installation
@@ -41,13 +41,8 @@ To set up the project locally, follow these steps:
    ```
 3. Install dependencies:
    ```bash
-   npm install
+   pip install -r requirements
    ```
-4. Start the server:
-   ```bash
-   npm start
-   ```
-
 ## Usage
 Once the application is running, navigate to `http://localhost:3000` in your web browser to access the platform. Follow the on-screen instructions to create an account and start utilizing the features.
 
