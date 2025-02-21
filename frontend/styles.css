@@ -9,7 +9,8 @@ body {
 }
 
 .chat-container {
-    width: 400px;
+    width: 100%;
+    max-width: 400px;
     background-color: #fff;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -85,4 +86,10 @@ body {
 .message.bot p {
     background-color: #f1f1f1;
     color: #333;
+}
+
+#loading {
+    text-align: center;
+    color: #007bff;
+    font-style: italic;
 }

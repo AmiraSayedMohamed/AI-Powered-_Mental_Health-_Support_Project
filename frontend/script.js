@@ -15,6 +15,12 @@ function sendMessage() {
     appendMessage("user", message);
     userInput.value = "";
 
+    // Show loading indicator
+    const loadingIndicator = document.createElement("div");
+    loadingIndicator.id = "loading";
+    loadingIndicator.textContent = "Thinking...";
+    document.getElementById("chat-box").appendChild(loadingIndicator);
+
     // Send message to backend
     fetch("http://127.0.0.1:5000/chat", {
         method: "POST",
@@ -25,6 +31,9 @@ function sendMessage() {
     })
         .then((response) => response.json())
         .then((data) => {
+            // Remove loading indicator
+            document.getElementById("loading").remove();
+
             if (data.response) {
                 appendMessage("bot", data.response);
             } else if (data.error) {
@@ -33,6 +42,8 @@ function sendMessage() {
         })
         .catch((error) => {
             console.error("Error:", error);
+            // Remove loading indicator
+            document.getElementById("loading").remove();
             appendMessage("bot", "Sorry, I couldn't process your request.");
         });
 }
