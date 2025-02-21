@@ -1,4 +1,4 @@
-h,# AI-Powered Mental Health Support Project
+# AI-Powered Mental Health Support Project
 
 Welcome to the **AI-Powered Mental Health Support Project**! This project aims to leverage artificial intelligence to provide users with accessible mental health resources and support.
 
