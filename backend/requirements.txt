@@ -1,0 +1,6 @@
+langchain
+flask
+flask_cors
+huggingface_hub
+chromadb
+langchain_groq

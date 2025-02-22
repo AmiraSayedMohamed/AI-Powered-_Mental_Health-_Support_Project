@@ -25,7 +25,11 @@ Mental health is a crucial aspect of overall well-being, yet many individuals la
 ## Technology Stack
 - **Frontend**: html, css , javaScript
 - **Backend**: flask
+<<<<<<< HEAD
 - **Database**: SQLAlchemy
+=======
+- **Database**: ChromaDB
+>>>>>>> 95295d86547b39ce8334c91993909f312c4be340
 - **AI Framework**: TensorFlow, PyTorch, or any relevant AI framework
 
 ## Installation
@@ -41,6 +45,7 @@ To set up the project locally, follow these steps:
    ```
 3. Install dependencies:
    ```bash
+<<<<<<< HEAD
    npm install
    ```
 4. Start the server:
@@ -48,6 +53,10 @@ To set up the project locally, follow these steps:
    npm start
    ```
 
+=======
+   pip install -r requirements
+   ```
+>>>>>>> 95295d86547b39ce8334c91993909f312c4be340
 ## Usage
 Once the application is running, navigate to `http://localhost:3000` in your web browser to access the platform. Follow the on-screen instructions to create an account and start utilizing the features.
 
@@ -91,6 +100,7 @@ For any inquiries or feedback, please reach out to us:
 - **GitHub**: [yourUserNameinGithub](https://github.com/AmiraSayedMohamed)
 
 Thank you for your interest in the AI-Powered Mental Health Support Project! Together, we can make a difference in mental health support.
+<<<<<<< HEAD
  -----------------------------
  mental-health-chatbot/
 ├── backend/
@@ -108,3 +118,5 @@ Thank you for your interest in the AI-Powered Mental Health Support Project! Tog
 │   │       └── styles.css
 │   └── .env (for environment variables)
 └── requirements.txt
+=======
+>>>>>>> 95295d86547b39ce8334c91993909f312c4be340
