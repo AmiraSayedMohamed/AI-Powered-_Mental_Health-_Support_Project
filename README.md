@@ -79,9 +79,9 @@ For any inquiries or feedback, please reach out to us:
 - **Email**: [Email@example.com](mailto:amira.sayedza@example.com)
 - **GitHub**: [AmiraSayedMohamed](https://github.com/AmiraSayedMohamed)
 ---
-- **Name**: name member2
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [yourUserNameinGithub](https://github.com/AmiraSayedMohamed)
+- **Name**: Ebube Ikechi
+- **Email**: ebubeikechi@gmail.com
+- **GitHub**: https://github.com/ebubeikechi
 ---
 - **Name**: name member3
 - **Email**: [your-email@example.com](mailto:your-email@example.com)
