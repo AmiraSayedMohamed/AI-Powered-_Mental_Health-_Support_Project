@@ -55,8 +55,7 @@ To set up the project locally, follow these steps:
 
 =======
    pip install -r requirements
-   ```
->>>>>>> 95295d86547b39ce8334c91993909f312c4be340
+   
 ## Usage
 Once the application is running, navigate to `http://localhost:3000` in your web browser to access the platform. Follow the on-screen instructions to create an account and start utilizing the features.
 
@@ -83,21 +82,14 @@ For any inquiries or feedback, please reach out to us:
 - **Email**: ebubeikechi@gmail.com
 - **GitHub**: https://github.com/ebubeikechi
 ---
-- **Name**: name member3
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [yourUserNameinGithub](https://github.com/AmiraSayedMohamed)
+- **Name**: Chidubem Pascal Duru 
+- **Email**: [your-email@example.com](mailto:Duruchidubempascal@gmail.com)
 ---
-- **Name**: name member4
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [yourUserNameinGithub](https://github.com/AmiraSayedMohamed)
+- **Name**: Tom Ekenereawaji 
+- **Email**: [your-email@example.com](mailto:Tomekenereawaji@gmail.com )
 ---
-- **Name**: name member 5
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [yourUserNameinGithub](https://github.com/AmiraSayedMohamed)
----
-- **Name**: name member 6
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [yourUserNameinGithub](https://github.com/AmiraSayedMohamed)
+- **Name**: Ayiba Adaolisa
+- **Email**: [your-email@example.com](mailto:ayibaadaolisa@gmail.com )
 
 Thank you for your interest in the AI-Powered Mental Health Support Project! Together, we can make a difference in mental health support.
 <<<<<<< HEAD
