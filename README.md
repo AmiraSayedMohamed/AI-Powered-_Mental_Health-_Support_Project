@@ -45,7 +45,6 @@ To set up the project locally, follow these steps:
    ```
 3. Install dependencies:
    ```bash
-<<<<<<< HEAD
    npm install
    ```
 4. Start the server:
@@ -110,4 +109,4 @@ Thank you for your interest in the AI-Powered Mental Health Support Project! Tog
 │   │       └── styles.css
 │   └── .env (for environment variables)
 └── requirements.txt
-=======
+-------
