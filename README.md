@@ -25,11 +25,11 @@ Mental health is a crucial aspect of overall well-being, yet many individuals la
 ## Technology Stack
 - **Frontend**: html, css , javaScript
 - **Backend**: flask
-<<<<<<< HEAD
+
 - **Database**: SQLAlchemy
 =======
 - **Database**: ChromaDB
->>>>>>> 95295d86547b39ce8334c91993909f312c4be340
+
 - **AI Framework**: TensorFlow, PyTorch, or any relevant AI framework
 
 ## Installation
@@ -92,7 +92,7 @@ For any inquiries or feedback, please reach out to us:
 - **Email**: [your-email@example.com](mailto:ayibaadaolisa@gmail.com )
 
 Thank you for your interest in the AI-Powered Mental Health Support Project! Together, we can make a difference in mental health support.
-<<<<<<< HEAD
+
  -----------------------------
  mental-health-chatbot/
 ├── backend/
@@ -111,4 +111,3 @@ Thank you for your interest in the AI-Powered Mental Health Support Project! Tog
 │   └── .env (for environment variables)
 └── requirements.txt
 =======
->>>>>>> 95295d86547b39ce8334c91993909f312c4be340
