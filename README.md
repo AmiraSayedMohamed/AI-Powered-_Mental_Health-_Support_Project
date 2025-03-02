@@ -74,7 +74,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or feedback, please reach out to us:
 
 - **Name**: Amira Sayed Mohamed
-- **Email**: [Email@example.com](mailto:amira.sayedza@example.com)
+- **Email**: [amira@gmail.com](mailto:amira.sayedza@example.com)
 - **GitHub**: [AmiraSayedMohamed](https://github.com/AmiraSayedMohamed)
 ---
 - **Name**: Ebube Ikechi
@@ -82,13 +82,13 @@ For any inquiries or feedback, please reach out to us:
 - **GitHub**: https://github.com/ebubeikechi
 ---
 - **Name**: Chidubem Pascal Duru 
-- **Email**: [your-email@example.com](mailto:Duruchidubempascal@gmail.com)
+- **Email**: [ChidubemPascalDuru@example.com](mailto:Duruchidubempascal@gmail.com)
 ---
 - **Name**: Tom Ekenereawaji 
-- **Email**: [your-email@example.com](mailto:Tomekenereawaji@gmail.com )
+- **Email**: [TomEkenereawaji@example.com](mailto:Tomekenereawaji@gmail.com )
 ---
 - **Name**: Ayiba Adaolisa
-- **Email**: [your-email@example.com](mailto:ayibaadaolisa@gmail.com )
+- **Email**: [AyibaAdaolisa@example.com](mailto:ayibaadaolisa@gmail.com )
 
 Thank you for your interest in the AI-Powered Mental Health Support Project! Together, we can make a difference in mental health support.
 
