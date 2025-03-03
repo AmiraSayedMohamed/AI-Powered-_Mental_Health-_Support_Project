@@ -82,13 +82,16 @@ For any inquiries or feedback, please reach out to us:
 - **GitHub**: https://github.com/ebubeikechi
 ---
 - **Name**: Chidubem Pascal Duru 
-- **Email**: [ChidubemPascalDuru@example.com](mailto:Duruchidubempascal@gmail.com)
+- **Email**: [ChidubemPascalDuru](mailto:Duruchidubempascal@gmail.com)
 ---
 - **Name**: Tom Ekenereawaji 
-- **Email**: [TomEkenereawaji@example.com](mailto:Tomekenereawaji@gmail.com )
+- **Email**: [TomEkenereawaji](mailto:Tomekenereawaji@gmail.com )
 ---
 - **Name**: Ayiba Adaolisa
-- **Email**: [AyibaAdaolisa@example.com](mailto:ayibaadaolisa@gmail.com )
+- **Email**: [AyibaAdaolisa](mailto:ayibaadaolisa@gmail.com )
+---
+- **Name**: Sama Farouk
+- **Email**: [Sama Farouk](mailto:samamohamedfarouk5@gmail.com )
 
 Thank you for your interest in the AI-Powered Mental Health Support Project! Together, we can make a difference in mental health support.
 
